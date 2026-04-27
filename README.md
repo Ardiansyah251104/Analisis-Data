@@ -1,3 +1,14 @@
-# Set Up Environment
+# Dicoding Collection Dashboard ✨
+
+## Setup Environment
+```
 mkdir Dashboard_Analisis_Data
 cd Dashboard_Analisis_Dada
+python -m venv venv
+pip install pandas matplotlib seaborn streamlit babel
+```
+
+## Run Streamlit app
+```
+streamlit run dashboard_.py
+```
