@@ -1,2 +1,3 @@
-# Analisis-Data
-Proyek Analisis Data dan Pengembangan Dashboard menggunakan Streamlit
+# Set Up Environment
+mkdir Dashboard_Analisis_Data
+cd Dashboard_Analisis_Dada
