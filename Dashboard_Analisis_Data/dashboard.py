@@ -40,7 +40,7 @@ def create_season_rent_df(df):
 def load_data():
     # Mengambil path folder tempat file dashboard_.py ini berada
     base_path = os.path.dirname(__file__)
-    file_path = os.path.join(base_path, "Main_data.csv")
+    file_path = os.path.join(base_path, "data_bersih.csv")
     
     # Membaca data menggunakan path absolut agar terdeteksi di Streamlit Cloud
     df = pd.read_csv(file_path)
